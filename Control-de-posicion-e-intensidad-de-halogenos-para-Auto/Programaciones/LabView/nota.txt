@@ -1,0 +1,5 @@
+
+La programacion es en Labview - 2012 e incluye:
+
+-Sistema de control con Referencia anual 
+-Sistema de control con Referencia automatica
